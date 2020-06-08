@@ -1,7 +1,5 @@
 # Terminology-Aware Analytics with FHIR
 
-In support of a presentation at FHIR DevDays 2019.
-
 This repository contains the following files:
 
 * synthea.zip - Synthetic patient dataset, n=1,185.
